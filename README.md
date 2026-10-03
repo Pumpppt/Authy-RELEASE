@@ -18,7 +18,6 @@
 
 * **Legacy Support (v1.7.2 – v31.41):** Relies on robust `FCurl` pattern scanning.
 * **Modern Support (v31.41 – Latest):** Utilizes `curl_easy_setopt` combined with byte scanning—fully capable of operating even on builds with encrypted strings.
-* **Universal Compatibility:** Built to handle diverse Fortnite client versions without breaking underlying auth logic flows.
 
 ---
 
