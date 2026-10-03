@@ -2,10 +2,6 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/Status-RELEASED-brightgreen?style=for-the-badge)]()
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)]()
-[![Game](https://img.shields.io/badge/Game-Fortnite-orange?style=for-the-badge)]()
-
 **A universal DLL auth redirect tool for Fortnite.**
 
 </div>
