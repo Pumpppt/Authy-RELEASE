@@ -26,3 +26,6 @@
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Pumpppt/Authy-RELEASE.git](https://github.com/Pumpppt/Authy-RELEASE.git)
+
+
+FOR ANDROID AND MAC AND IOS maybe later prob Android only.
